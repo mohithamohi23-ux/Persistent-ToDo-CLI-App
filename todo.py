@@ -1,5 +1,5 @@
 # todo.py
-# Task 2 - Persistent Console To-Do Application
+# Persistent Console To-Do Application
 
 import os
 
@@ -150,3 +150,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
