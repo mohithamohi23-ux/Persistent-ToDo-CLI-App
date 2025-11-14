@@ -32,6 +32,8 @@ Remove all tasks that are marked as done.
 Tasks are saved in tasks.txt, so they remain even after closing the program.
 
 🗂️ Files Included
+
 todo.py      → Main application code
 tasks.txt    → Stores all tasks (auto-created if not present)
 README.md    → Documentation (this file)
+
