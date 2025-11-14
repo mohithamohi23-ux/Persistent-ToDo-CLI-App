@@ -1,6 +1,8 @@
 # Persistent-ToDo-CLI-App
 A persistent command-line To-Do application built in Python. This application demonstrates file handling, lists and string manipulation by saving tasks to a text file and allowing add, view, remove and mark-done operations.
+
 📌 Features
+
 ✅ Add tasks
 
 Add new tasks to your to-do list.
