@@ -67,7 +67,7 @@ The program saves each task in the following format inside tasks.txt:
 
 When you restart the app, it loads tasks back into a Python list automatically.
 
-**What I Learned**
+**WHAT I LEARNED**
 
 Working on this Python To-Do List application helped me understand several important programming concepts. Here are the key things I learned:
 
